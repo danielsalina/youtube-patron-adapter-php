@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Adapters\\": "src/Adapters/",
+      "Models\\": "src/Models/",
+      "Payments\\": "src/Payments/",
+      "App\\": "src/App/"
+    }
+  }
+}
